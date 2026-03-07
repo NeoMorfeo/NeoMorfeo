@@ -67,7 +67,7 @@ A **tenant lifecycle management service** built in Go — single binary, GitOps-
 
 `Go` · `Chi` · `SQLite` · `ArgoCD` · `Kubernetes` · `OpenTelemetry`
 
-### 🛡️ Solidus
+### 🛡️ [Solidus](https://solidus.cards)
 A **card management system** built for a real nonprofit organization (Cáritas Diocesana de León). Full-stack Django + React app with a complete observability stack, CI/CD pipeline, and PostgreSQL backend.
 
 `Python` · `Django` · `React` · `PostgreSQL` · `Loki` · `Tempo` · `Grafana`
