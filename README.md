@@ -27,7 +27,7 @@ Software engineer with **15+ years** doing backend, infrastructure and leading t
 
 Right now I'm at **Beway**, where I wear several hats — Head of Engineering, IT and cybersecurity. I design architecture, push ISO 27001 compliance forward, and deal with whatever catches fire. Most of my work is in private repos, so my contribution graph doesn't do me justice.
 
-Outside of work: homelab, 3D printing, and automating things that didn't need to be automated.
+Outside of work: homelab, Home Assistant, 3D printing, and automating things that didn't need to be automated.
 
 ---
 
