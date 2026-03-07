@@ -72,16 +72,6 @@ A **card management system** built for a real nonprofit organization (Cáritas D
 
 `Python` · `Django` · `React` · `PostgreSQL` · `Loki` · `Tempo` · `Grafana`
 
-## GitHub Stats
-
-<div align="center">
-
-![NeoMorfeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoMorfeo&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoMorfeo&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-</div>
-
 ---
 
 <div align="center">
